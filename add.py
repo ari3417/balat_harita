@@ -1237,4 +1237,3 @@ with open(CIKTI_HTML, "w", encoding="utf-8") as f:
 print("Dosya başarıyla güncellendi.")
 files.download(CIKTI_HTML)
 }
-}
