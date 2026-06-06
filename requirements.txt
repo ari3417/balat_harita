@@ -1,0 +1,9 @@
+streamlit
+pandas
+geopandas
+osmnx
+shapely
+scikit-learn
+opencv-python-headless
+beautifulsoup4
+lxml
